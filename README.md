@@ -2,7 +2,7 @@
 - 👀 I’m interested in play scoccer, travel, play PC game and also interested in Coding
 - 🌱 I’m currently learning Python of dataprocess and machine learning, and alse learn about deep learning 
 - 💞️ I’m goal for make a automatic trading robot of cryptocurreny, currency or even stock, but now I just still learning how to coding, wish that I can reach my goal `in five years`
-- 📫 How to reach me: You can go to FB and search JulianLee，or my email julianlee0918@gmail.com
+- 📫 How to reach me: You can go to FB and search JulianLee，or my email julianlee091873@gmail.com
 
 <!---
 JulianLee310514065/JulianLee310514065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
