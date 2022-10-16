@@ -84,3 +84,16 @@ Start at|achieve Goal|
 - 經歷、獎項: markdown(還行)
 
 - 目標、計畫: 練PPT、overleaf
+
+---
+
+## 丞相起風
+![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)
+
+---
+
+```
+千錘固然強
+但比你認真、聰明的人不勝枚舉
+唯有天衣才能打出一秒四破
+```
