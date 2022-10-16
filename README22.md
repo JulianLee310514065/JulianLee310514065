@@ -26,3 +26,61 @@ Start at|achieve Goal|
 
 ## 因緣際會
 ![now](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E5%89%8D.png?raw=true)
+
+> 技能介紹
+
+### 1. 深度學習(電腦視覺)
+- 介紹:
+
+- 經歷、獎項: AICUP(segmentation)
+
+- 目標、計畫: 52 Channel Data
+
+### 2. 機器學習(含各式前處理)
+- 介紹:
+
+- 經歷、獎項: 太空中心競賽第一名、學長結果重現(及改進)
+
+- 目標、計畫:
+
+### 3. 網路爬蟲
+- 介紹:
+
+- 經歷、獎項:
+
+- 目標、計畫: Scrapy、Udemy-selenium證書、實戰中
+
+### 4. SQL
+- 介紹:
+
+- 經歷、獎項:
+
+- 目標、計畫: 實戰中
+
+### 5. GUI
+- 介紹:
+
+- 經歷、獎項:
+
+- 目標、計畫: Udemy-GUI證書、實戰中
+
+### 6. Cloud Platfrom
+- 介紹: Google、AWS
+
+- 經歷、獎項: Google Cloud 翻譯API
+
+- 目標、計畫: VM、Cloud SQL、AWS
+
+### 7. NLP
+- 介紹:
+
+- 經歷、獎項:
+
+- 目標、計畫: 比賽
+
+### 8. 文書
+- 介紹:
+
+- 經歷、獎項: markdown(還行)
+
+- 目標、計畫: 練PPT、overleaf
