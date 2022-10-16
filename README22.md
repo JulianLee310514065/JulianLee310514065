@@ -40,7 +40,7 @@ Start at|achieve Goal|
 ### 2. 機器學習(含各式前處理)
 - 介紹:
 
-- 經歷、獎項: 太空中心競賽第一名、學長結果重現(及改進)
+- 經歷、獎項: 太空中心競賽第一名、學長結果重現(及改進)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 - 目標、計畫:
 
@@ -96,5 +96,10 @@ Start at|achieve Goal|
 ```
 千錘固然強
 但比你認真、聰明的人不勝枚舉
-唯有天衣才能打出一秒四破
+唯有天衣才能打出"""
 ```
+
+---
+## My Favorite Game -- Arknights
+
+![arknight](https://user-images.githubusercontent.com/101493861/158847462-aac2cdeb-abc3-4bd0-ac30-5c6fae676913.jpg)
