@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python of GUI, SQL, and NLP, and also learning about Cloud Platform (Google、AWS)
 - 💞️ I goal for making an automatic trading robot of cryptocurrency, currency, or even stock, but now I just still learning how to code, wish that I can reach my goal `in five years
 - 📫 How to reach me: You can go to FB and search JulianLee， or my email julianlee091873@gmail.com
+- [see more...](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/README.md)
 
 <!---
 JulianLee310514065/JulianLee310514065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
