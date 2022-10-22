@@ -84,7 +84,7 @@ Start at|achieve Goal|
 
 - 經歷、獎項: markdown
 
-- 目標、計畫: 練PPT、overleaf
+- 目標、計畫: PPT、overleaf
 
 ---
 
