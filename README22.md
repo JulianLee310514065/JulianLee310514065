@@ -42,7 +42,7 @@ Start at|achieve Goal|
 
 - 經歷、獎項: 太空中心競賽第一名、學長結果重現(及改進)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
-- 目標、計畫:
+- 目標、計畫: AICUP-玉山銀行洗錢偵測競賽
 
 ### 3. 網路爬蟲
 - 介紹:
