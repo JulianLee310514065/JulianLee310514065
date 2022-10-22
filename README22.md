@@ -26,7 +26,7 @@ Start at|achieve Goal|
 ---
 
 ## 因緣際會
-![now](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E5%89%8D.png?raw=true)
+![20221020](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E5%89%8D.png?raw=true)
 
 > 技能介紹
 
