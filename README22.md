@@ -68,7 +68,7 @@ Start at|achieve Goal|
 ### 6. Cloud Platfrom
 - 介紹: 在寫程式時，很常遇到電腦設備不夠好，導致程式無法正常運作，最常發生於深度學習，若顯卡不夠好，batchsize又太大，那程式就會毫無留情的跟你說你的記憶體不足，或是像爬蟲、網頁這種需要跑24小時的東西，先不說電費，若遇到停電則會很麻煩，還有就是若是租屋網路與別人共用，那要架設Server時就會很麻煩。雲端平台就是來解決上述問題的，雲端VM、雲端SQL、雲端運算Container...諸如此類，像上次因為AICUP在第一階段有入圍，所以官方給我們一人45000的TWCC運算資源額度，讓我們可以租借他們的伺服器，使用4顆甚至8顆V100(32G)來訓練我們的程式，除了雲端運算、SQL功能外，Google、AWS還提供了很多雲端ML、DL服務，Google Translate API就是Google的一個很好用之雲端平台服務。
 
-- 經歷、獎項:  [TWCC (運端運算)](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、Google Cloud 翻譯API
+- 經歷、獎項:  [TWCC (運端運算)](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[Google Cloud 翻譯API](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
 
 - 目標、計畫: VM、Cloud SQL、AWS
 
