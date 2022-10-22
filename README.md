@@ -47,14 +47,14 @@ Start at|achieve Goal|
 ### 3. 網路爬蟲
 - **介紹:** 在這資訊爆炸的時代，上網查資料已經成為不可或缺的事，譬如新聞、股價走勢、社群網站一些名人發的twitter，還有天氣預報等等，但是如果需要同時關注多個網站，必須手動切分頁，而且睡覺或是吃飯時若有重大事件往往會不小心漏掉，所以網路爬蟲，一個自動擷取網站資訊的程式就很重要了。
 
-- **經歷、獎項:** [**大新聞計畫**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
+- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
 
 - **目標、計畫:** Scrapy、Udemy-selenium證書、實戰中
 
 ### 4. SQL
 - **介紹:** 會學這個是因為寫網路爬蟲時，遇到一些困難，因此才有想學SQL的念頭。在還沒有SQL之前，我們爬蟲下來的資料都是存於csv檔中，但是先不論每次查詢都要讀取進來，最麻煩的是有時候要看csv的內容時程式就掛了，因為打開csv時檔案是存不進去的，此外，不同電腦或不同網域，如要讀取資料只能複製csv過去，但是SQL解決了上述的所有問題，除了可以邊查(`SELECT`)邊存(`INSERT`)，還可以架SQL server讓別台電腦連過來查資料，另外，雖然SQL的很多功能Pandas之DataFrame能做到，但是SQL能有許多高級的語句，尤其在JOIN的地方，看過很多高手寫的JOIN不誇張真的只能用花式形容。
 
-- **經歷、獎項:**
+- **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/MySQL/Readme.md)
 
 - **目標、計畫:** 實戰中
 
