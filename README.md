@@ -33,21 +33,21 @@ Start at|achieve Goal|
 ### 1. 深度學習(電腦視覺)
 - **介紹:** 電腦視覺字面上的意思就是讓電腦擁有視覺，就是讓電腦能做如人眼般的功能，如看圖分類、看照片切出船隻與飛機、從攝像頭捕捉人的表情或肢體動作以及近幾年很夯的自駕車系統都是電腦視覺的應用，上述說的都是電腦視覺中CNN的應用，當然不只這些，還有像是用GAN來製作高畫質的照片，或是用auto-encoder來做瑕疵鑑別，或是之前爭議不少的deepfake換臉技術，都是電腦視覺的應用。
 
-- **經歷、獎項:** [AICUP(segmentation)佳作](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
+- **經歷、獎項:**  [**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
-- **目標、計畫:** 52 Channel NIRS Data
+- **目標、計畫:** 52_Channel_NIRS_Data
 
 ### 2. 機器學習(含各式前處理)
 - **介紹:** 機器學習是藉由投入訓練資料，來讓電腦自動尋找最佳的擬和參數，機器學習的資料多為表格型態，且往往會很複雜很亂，好比說要訓練檢測異常交易的模型，你會有用戶資料、用戶交易資訊、用戶帳戶情況及用戶轉帳情況等，而且還有可能因為記錄問題有異常值缺失值，或是金額貨幣對之間需要統一，以及資料型態的統一，如$10000應該要是10000整數元，但是$會使$10000無法轉為整數型態，必須要做處理，很多時候，機器學習的「**前處理**」會比模型訓練還複雜。此外，時間序列(Time Series)的資料也可以透過特徵選擇的方式，來取得重要特徵，並放入模型中做訓練與預測。
 
-- **經歷、獎項:** [太空中心AI競賽第一名](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[學長結果重現(及改進)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
+- **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 - **目標、計畫:** AICUP-玉山銀行洗錢偵測競賽
 
 ### 3. 網路爬蟲
 - **介紹:** 在這資訊爆炸的時代，上網查資料已經成為不可或缺的事，譬如新聞、股價走勢、社群網站一些名人發的新聞等等，還有天氣預報等等，但是如果需要同時關注多個網站，必須手動切分頁，而且睡覺或是吃飯時若有重大事件往往會不小心漏掉，所以網路爬蟲，一個自動擷取新聞的程式就很重要了。
 
-- **經歷、獎項:** [大新聞計畫](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
+- **經歷、獎項:** [**大新聞計畫**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
 
 - **目標、計畫:** Scrapy、Udemy-selenium證書、實戰中
 
@@ -61,14 +61,14 @@ Start at|achieve Goal|
 ### 5. GUI
 - **介紹:** 我們這種做程式開發或研究的，往往只要GitHub有Model，或是Stack Overflow有大神解法，基本就足夠了，但是對非程式相關的領域來說那些資源根本不是資源，一般大眾較易用的只有圖形化介面，好比說股票看盤程式、Steam商店介面、或是像Word那種圖形化的編輯程式，如ffmpeg、markdown、Latex等稍微需要一點程式基礎的就很多人不會用了。所以在程式寫完後，我們必須寫出GUI讓不會寫程式的人使用，好比說爬蟲下來存入SQL的東西，不可能叫他們使用SQL語句`SELECT * FROM ... WHERE ...`去查資料，必須寫成GUI，還有就是與醫院合作的計畫，一般來說收案的是護理師，不可能開Python去量取病人的資料，所以也須將功能寫成GUI，讓護理師方便操作收案。
 
-- **經歷、獎項:** [Udemy-GUI證書一](https://github.com/JulianLee310514065/Complete-Project/blob/main/Udemy_Gui_course1.jpg)
+- **經歷、獎項:** [**Udemy-GUI證書一**](https://github.com/JulianLee310514065/Complete-Project/blob/main/Udemy_Gui_course1.jpg)
 
 - **目標、計畫:** Udemy-GUI證書二、實戰中
 
 ### 6. Cloud Platfrom
 - **介紹:** 在寫程式時，很常遇到電腦設備不夠好，導致程式無法正常運作，最常發生於深度學習，若顯卡不夠好，batchsize又太大，那程式就會毫無留情的跟你說你的記憶體不足，或是像爬蟲、網頁這種需要跑24小時的東西，先不說電費，若遇到停電則會很麻煩，還有就是若是租屋網路與別人共用，那要架設Server時就會很麻煩。雲端平台就是來解決上述問題的，雲端VM、雲端SQL、雲端運算Container...諸如此類，像上次因為AICUP在第一階段有入圍，所以官方給我們一人45000的TWCC運算資源額度，讓我們可以租借他們的伺服器，使用4顆甚至8顆V100(32G)來訓練我們的程式，除了雲端運算、SQL功能外，Google、AWS還提供了很多雲端ML、DL服務，Google Translate API就是Google的一個很好用之雲端平台服務。
 
-- **經歷、獎項:**  [TWCC (運端運算)](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[Google Cloud 翻譯API](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
+- **經歷、獎項:**  [**TWCC (運端運算)**](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[**Google Cloud 翻譯API**](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
 
 - **目標、計畫:** VM、Cloud SQL、AWS
 
