@@ -31,11 +31,11 @@ Start at|achieve Goal|
 > 技能介紹
 
 ### 1. 深度學習(電腦視覺)
-- 介紹:
+- 介紹: 電腦視覺字面上的意思就是讓電腦擁有視覺，就是讓電腦能做如人眼般的功能，如看圖分類、看照片切出船隻與飛機、從攝像頭捕捉人的表情或肢體動作以及近幾年很夯的自駕車系統都是電腦視覺的應用，上述說的都是電腦視覺中CNN的應用，當然不只這些，還有像是用GAN來製作高畫質的照片，或是用auto-encoder來做瑕疵鑑別，或是之前爭議不少的deepfake換臉技術，都是電腦視覺的應用。
 
-- 經歷、獎項: AICUP(segmentation)
+- 經歷、獎項: [AICUP(segmentation)](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
-- 目標、計畫: 52 Channel Data
+- 目標、計畫: 52 Channel NIRS Data
 
 ### 2. 機器學習(含各式前處理)
 - 介紹:
