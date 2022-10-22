@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python of GUI, SQL, and NLP, and also learning about Cloud Platform (Google、AWS)
 - 💞️ I goal for making an automatic trading robot of cryptocurrency, currency, or even stock, but now I just still learning how to code, wish that I can reach my goal `in five years
 - 📫 How to reach me: You can go to FB and search JulianLee， or my email julianlee091873@gmail.com
-- [see more...](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/README.md)
+- [see more...](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/README614.md)
 
 <!---
 JulianLee310514065/JulianLee310514065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +52,7 @@ Start at|achieve Goal|
 - 目標、計畫: Scrapy、Udemy-selenium證書、實戰中
 
 ### 4. SQL
-- 介紹:
+- 介紹: 會學這個是因為寫網路爬蟲時，遇到一些困難，因此才有想學SQL的念頭。在還沒有SQL之前，我們爬蟲下來的資料都是存於csv檔中，但是先不論每次查詢都要讀取進來，最麻煩的是有時候要看csv的內容時程式就掛了，因為打開csv時檔案是存不進去的，此外，不同電腦或不同網域，如要讀取資料只能複製csv過去，但是SQL解決了上述的所有問題，除了可以邊查(`SELECT`)邊存(`INSERT`)，還可以架SQL server讓別台電腦連過來查資料，另外，雖然SQL的很多功能Pandas之DataFrame能做到，但是SQL能有許多高級的語句，尤其在JOIN的地方，看過很多高手寫的JOIN不誇張真的只能用花式形容。
 
 - 經歷、獎項:
 
