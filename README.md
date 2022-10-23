@@ -106,6 +106,6 @@ Start at|achieve Goal|
 
 ---
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{My Favorite Game -- Arknights}}$</h1>
+<h1 align= 'center'>$\mathfrak{\color{darkgreen}{My Favorite Game -- Arknights}}$</h1>
 
 ![arknight](https://user-images.githubusercontent.com/101493861/158847462-aac2cdeb-abc3-4bd0-ac30-5c6fae676913.jpg)
