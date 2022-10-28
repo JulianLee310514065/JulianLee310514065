@@ -66,9 +66,9 @@ Start at|achieve Goal|
 ### 5. GUI
 - **介紹:** <center>我們這種做程式開發或研究的，往往只要GitHub有Model，或是Stack Overflow有大神解法，基本就足夠了，但是對非程式相關的領域來說那些資源根本不是資源，一般大眾較易用的只有圖形化介面，好比說股票看盤程式、Steam商店介面、或是像Word那種圖形化的編輯程式，如ffmpeg、markdown、Latex等稍微需要一點程式基礎的就很多人不會用了。所以在程式寫完後，我們必須寫出GUI讓不會寫程式的人使用，好比說爬蟲下來存入SQL的東西，不可能叫他們使用SQL語句`SELECT * FROM ... WHERE ...`去查資料，必須寫成GUI，還有就是與醫院合作的計畫，一般來說收案的是護理師，不可能開Python去量取病人的資料，所以也須將功能寫成GUI，讓護理師方便操作收案。</center>
 
-- **經歷、獎項:** [**Udemy-GUI證書一**](https://github.com/JulianLee310514065/Complete-Project/blob/main/Udemy_Gui_course1.jpg)
+- **經歷、獎項:** [**Udemy-GUI證書一**](https://github.com/JulianLee310514065/Complete-Project/blob/main/Udemy_Gui_course1.jpg)、[Udemy-GUI證書二](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)
 
-- **目標、計畫:** Udemy-GUI證書二、實戰中
+- **目標、計畫:** 實戰中
 
 ### 6. Cloud Platfrom
 - **介紹:** <center>在寫程式時，很常遇到電腦設備不夠好，導致程式無法正常運作，最常發生於深度學習，若顯卡不夠好，batchsize又太大，那程式就會毫無留情的跟你說你的記憶體不足，或是像爬蟲、網頁這種需要跑24小時的東西，先不說電費，若遇到停電則會很麻煩，還有就是若是租屋網路與別人共用，那要架設Server時就會很麻煩。雲端平台就是來解決上述問題的，雲端VM、雲端SQL、雲端運算Container...諸如此類，像上次因為AICUP在第一階段有入圍，所以官方給我們一人45000的TWCC運算資源額度，讓我們可以租借他們的伺服器，使用4顆甚至8顆V100(32G)來訓練我們的程式，除了雲端運算、SQL功能外，Google、AWS還提供了很多雲端ML、DL服務，Google Translate API就是Google的一個很好用之雲端平台服務。</center>
