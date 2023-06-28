@@ -14,6 +14,13 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Honor}}$</h1>
 
+### 1. Datacamp professional data scientist certificate
+- [DataCamp](https://www.datacamp.com/certificate/DS0019537575798)是國外有名的線上程式學習網站，課程包括數據科學和程式開發技能，涵蓋了Python、R、SQL、機器學習、統計分析、資料視覺化等領域。
+DataCamp的課程皆由業界專家和知名教育者設計和教授，他們具有豐富的教學與實戰經驗，確保了內容的專業性且易懂。DataCamp也供了證照供上課的學生可以考取，內容包含基本Python撰寫、SQL、資料視覺化以及資料處理與機器學習，此外還有必須實作一個真實案例之Profect，分析生活中的真實資料，資料處理後建模，最後口頭報告描述程式內容，方可獲得證照
+
+![Datacamp professional data scientist certificate](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/datacamp.jpg)
+
+
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Manuel}}$</h1>
