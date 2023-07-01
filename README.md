@@ -4,7 +4,7 @@
 - 👀 I’m interested in playing soccer, traveling, playing PC games, and also Coding
 - 🌱 I’m currently learning Python of Machine learning, GUI, SQL, and NLP, and also learning about Cloud Platform (Google、AWS)
 - 📫 How to reach me: You can go to FB and search JulianLee， or my email `julianlee091873@gmail.com`
-- [see more...](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/README614.md)
+<!--- [see more...](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/README614.md)--->
 
 <!---
 JulianLee310514065/JulianLee310514065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
