@@ -64,11 +64,20 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
 ### 1. 深度學習
+![pytorch](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png)
 ![tensorflow](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png)
+
+
 
 - **經歷、獎項:**  [**AICUP(segmentation)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
+
+### 2. 機器學習(含各式前處理)
+![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)
+![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)
+
+- **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Manuel}}$</h1>
 
@@ -91,10 +100,7 @@ Example:
 
 
 
-### 2. 機器學習(含各式前處理)
-- **介紹:** <center>機器學習是藉由投入訓練資料，來讓電腦自動尋找最佳的擬和參數，機器學習的資料多為表格型態，且往往會很複雜很亂，好比說要訓練檢測異常交易的模型，你會有用戶資料、用戶交易資訊、用戶帳戶情況及用戶轉帳情況等，而且還有可能因為記錄問題有異常值缺失值，或是金額貨幣對之間需要統一，以及資料型態的統一，如$10000應該要是10000整數元，但是$會使$10000無法轉為整數型態，必須要做處理，很多時候，機器學習的「**前處理**」會比模型訓練還複雜。此外，時間序列(Time Series)的資料也可以透過特徵選擇的方式，來取得重要特徵，並放入模型中做訓練與預測。</center>
 
-- **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 
 ### 3. 網路爬蟲
