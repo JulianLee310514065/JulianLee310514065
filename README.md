@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Honor}}$</h1>
 
-### 1. Datacamp professional data scientist certificate
+### 1. Datacamp professional data scientist certificate 
 - **介紹:** <center>[DataCamp](https://app.datacamp.com/)是國外有名的線上程式學習網站，課程包括數據科學和程式開發技能，涵蓋了Python、R、SQL、機器學習、統計分析、資料視覺化等領域。
 Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具有豐富的教學與實戰經驗，確保了內容的專業性且易懂。DataCamp也供了證照供上課的學生可以考取，內容包含基本Python撰寫、SQL、資料視覺化以及資料處理與機器學習，此外還有必須實作一個真實案例之Profect，分析生活中的真實資料，資料處理後建模，最後口頭報告描述程式內容，方可獲得[證照](https://www.datacamp.com/certificate/DS0019537575798)。</center>
 
@@ -81,29 +81,29 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 - **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
-- **目標、計畫:** 
+- **目標、計畫:** 實戰中
 
 ### 3. 網路爬蟲
 ![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)
 ![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)
 
-- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
+- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)、[Udemy-selenium證書](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
-- **目標、計畫:** Scrapy、Udemy-selenium證書、實戰中
+- **目標、計畫:** Scrapy、、實戰中
 
 ### 4. SQL
 ![mysql](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mysql.png)
 
 - **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/MySQL/Readme.md)
 
-- **目標、計畫:** 實戰中
+- **目標、計畫:** 更深入的課程
 
 ### 5. GUI
 ![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)
 
-- **經歷、獎項:** [**Udemy-GUI證書一**](https://github.com/JulianLee310514065/Complete-Project/blob/main/Udemy_Gui_course1.jpg)、[**Udemy-GUI證書二**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)
+- **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)
 
-- **目標、計畫:** 實戰中
+- **目標、計畫:** 暫無
 
 ### 6. Cloud Platfrom
 ![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)
@@ -118,18 +118,18 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![transformer](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/transforemer.png)
 ![sentence](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sentence.png)
 
-- **經歷、獎項:**
+- **經歷、獎項:** [Udemy-NLP證書](https://www.udemy.com/certificate/UC-312ad481-b310-498c-96dd-aced5ecf250f/)
 
-- **目標、計畫:** 比賽
+- **目標、計畫:** (希望有)比賽、實戰真實資料
 
 
 ### 8. 文書技能
 ![latex](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/latex.png)
 ![markdown](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/markdown.png)
 
-- **經歷、獎項:** 
+- **經歷、獎項:** markdown、[Udemy-overleaf證書](https://www.udemy.com/certificate/UC-ca1a1f97-3b48-4f21-9553-30fdc13bfc2c/)
 
-- **目標、計畫:** PPT、overleaf、markdown(主要是html的地方)
+- **目標、計畫:** PPT
 
   
 
