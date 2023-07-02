@@ -37,7 +37,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 ### 3. AI-CUP 2023 春季賽【多模態病理嗓音分類競賽】
 - 隊名 : TEAM_3134
-- 簡介 : 這個比賽是要區分不同喉嚨疾病的聲音，官方給出五種疾病的音檔，為1~3秒的「阿」單音，參賽者要建立可以對聲音資訊做分類的模型，並分類之。最後的結果為Public data之UAR分數為0.657225，Private data之UAR分數為0.607568，並獲得Public第七，Private第六的成績。
+- 簡介 : 這個比賽是要區分不同喉嚨疾病的聲音，官方給出**五種疾病的音檔**，為1~3秒的「阿」單音，參賽者要建立可以對聲音資訊做分類的模型，並分類之。最後的結果為Public data之UAR分數為0.657225，Private data之UAR分數為0.607568，並獲得Public第七，Private第六的成績。
 - 更多詳情請見[連結](https://github.com/JulianLee310514065/AICUP_audio_2023)。
 
 <div align="center">
@@ -50,7 +50,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 ### 4. AI-CUP 2022 春季賽【肺腺癌病理切片影像之腫瘤氣道擴散偵測競賽 II：運用影像分割作法於切割STAS輪廓】
 - 隊名 : TEAM_1015
-- 簡介 : 這個比賽主要目標是找出肺腺癌的癌細胞，透過官方提供的醫生標記遮罩(MASK)，架設語意切割(Semantic Segmentation)模型，並試圖讓AI自動分出癌細胞的區域。最後的結果為Public data之DICE分數為0.918679，Private data之DICE分數為0.916327，並且獲得Public第四、Private第七的結果。
+- 簡介 : 這個比賽主要目標是**切割肺腺癌的癌細胞區域**，透過官方提供的醫生標記遮罩(MASK)，架設語意切割(Semantic Segmentation)模型，並試圖讓AI自動分出癌細胞的區域。最後的結果為Public data之DICE分數為0.918679，Private data之DICE分數為0.916327，並且獲得Public第四、Private第七的結果。
 - 更多詳情請見[連結](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)。
 
 <div align="center">
@@ -64,6 +64,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Manuel}}$</h1>
+以下為本人自製Manuel，裡面記載了於[交大光電BOIL實驗室](https://boil.lab.nycu.edu.tw/)期間NIRS組所學與所需的程式，包含資料處理；畫圖、機器學習建模分析等等，算是一個對實驗室NIRS組的一個整合。
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Goal}}$</h1>
 
