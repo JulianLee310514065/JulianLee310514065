@@ -63,10 +63,10 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
-### 1. 深度學習(電腦視覺)
-- **介紹:** <center>介紹。<center>
+### 1. 深度學習
 
-- **經歷、獎項:**  [**AICUP(segmentation)優等**]([https://github.com/JulianLee310514065/AICUP_STAS_Segmentation](https://github.com/JulianLee310514065/AICUP_audio_2023))、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
+
+- **經歷、獎項:**  [**AICUP(segmentation)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
 
