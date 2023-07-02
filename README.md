@@ -87,7 +87,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)
 ![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)
 
-- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)、[Udemy-selenium證書](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
+- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
 - **目標、計畫:** Scrapy、、實戰中
 
@@ -118,7 +118,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![transformer](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/transforemer.png)
 ![sentence](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sentence.png)
 
-- **經歷、獎項:** [Udemy-NLP證書](https://www.udemy.com/certificate/UC-312ad481-b310-498c-96dd-aced5ecf250f/)
+- **經歷、獎項:** [**Udemy-NLP證書**](https://www.udemy.com/certificate/UC-312ad481-b310-498c-96dd-aced5ecf250f/)
 
 - **目標、計畫:** (希望有)比賽、實戰真實資料
 
@@ -127,7 +127,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![latex](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/latex.png)
 ![markdown](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/markdown.png)
 
-- **經歷、獎項:** markdown、[Udemy-overleaf證書](https://www.udemy.com/certificate/UC-ca1a1f97-3b48-4f21-9553-30fdc13bfc2c/)
+- **經歷、獎項:** markdown、[**Udemy-overleaf證書**](https://www.udemy.com/certificate/UC-ca1a1f97-3b48-4f21-9553-30fdc13bfc2c/)
 
 - **目標、計畫:** PPT
 
