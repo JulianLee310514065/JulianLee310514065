@@ -63,6 +63,13 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
+### 1. 深度學習(電腦視覺)
+- **介紹:** <center>介紹。<center>
+
+- **經歷、獎項:**  [**AICUP(segmentation)優等**]([https://github.com/JulianLee310514065/AICUP_STAS_Segmentation](https://github.com/JulianLee310514065/AICUP_audio_2023))、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
+
+- **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
+
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Manuel}}$</h1>
 
 以下為本人自製Manuel，裡面記載了於[交大光電BOIL實驗室](https://boil.lab.nycu.edu.tw/)期間NIRS組所學與所需的程式，包含資料處理；畫圖、機器學習建模分析等等，算是一個對實驗室NIRS組的一個整合。
@@ -73,34 +80,22 @@ Example:
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Goal}}$</h1>
 
+<div align="center">
+  
+![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)
+
+</div>
+  
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Reposity-dir}}$</h1>
 
-## 起家
 
-![before](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E6%9B%BE%E7%B6%93.png?raw=true)
 
-大四時同學推薦了我DataCamp這個網路課程，從此開啟了我的程式之路，但是因為DataCamp主要集中在Machine Learning 與 DataProcessing ，所以八邊形只練了其中一邊。
-
----
-
-## 因緣際會
-![20221020](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E5%89%8D.png?raw=true)
-
-> 技能介紹
-
-### 1. 深度學習(電腦視覺)
-- **介紹:** <center>電腦視覺字面上的意思就是讓電腦擁有視覺，就是讓電腦能做如人眼般的功能，如看圖分類、看照片切出船隻與飛機、從攝像頭捕捉人的表情或肢體動作以及近幾年很夯的自駕車系統都是電腦視覺的應用，上述說的都是電腦視覺中CNN的應用，當然不只這些，還有像是用GAN來製作高畫質的照片，或是用auto-encoder來做瑕疵鑑別，或是之前爭議不少的deepfake換臉技術，都是電腦視覺的應用。<center>
-
-- **經歷、獎項:**  [**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
-
-- **目標、計畫:** 52_Channel_NIRS_Data
 
 ### 2. 機器學習(含各式前處理)
 - **介紹:** <center>機器學習是藉由投入訓練資料，來讓電腦自動尋找最佳的擬和參數，機器學習的資料多為表格型態，且往往會很複雜很亂，好比說要訓練檢測異常交易的模型，你會有用戶資料、用戶交易資訊、用戶帳戶情況及用戶轉帳情況等，而且還有可能因為記錄問題有異常值缺失值，或是金額貨幣對之間需要統一，以及資料型態的統一，如$10000應該要是10000整數元，但是$會使$10000無法轉為整數型態，必須要做處理，很多時候，機器學習的「**前處理**」會比模型訓練還複雜。此外，時間序列(Time Series)的資料也可以透過特徵選擇的方式，來取得重要特徵，並放入模型中做訓練與預測。</center>
 
 - **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
-- **目標、計畫:** AICUP-玉山銀行洗錢偵測競賽
 
 ### 3. 網路爬蟲
 - **介紹:** <center>在這資訊爆炸的時代，上網查資料已經成為不可或缺的事，譬如新聞、股價走勢、社群網站一些名人發的twitter，還有天氣預報等等，但是如果需要同時關注多個網站，必須手動切分頁，而且睡覺或是吃飯時若有重大事件往往會不小心漏掉，所以網路爬蟲，一個自動擷取網站資訊的程式就很重要了。</center>
@@ -146,8 +141,7 @@ Example:
 
 ---
 
-## 丞相起風
-![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)
+
 
 ---
 
