@@ -76,12 +76,14 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ### 2. 機器學習(含各式前處理)
 ![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)
 ![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)
+![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mat.png)
+![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn.png)
 
 - **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 ### 3. 網路爬蟲
 ![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)
-![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium_logo_icon_249659.png)
+![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)
 
 - **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)
 
