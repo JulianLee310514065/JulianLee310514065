@@ -40,7 +40,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 ### 4. AI-CUP 2022 肺腺癌病理切片影像之腫瘤氣道擴散偵測競賽 II：運用影像分割作法於切割STAS輪廓
 - 隊名 : TEAM_1015
-- 簡介 : 這個比賽主要目標是找出肺腺癌的癌細胞，透過官方提供的醫生標記遮罩(MASK)，架設語意切割(Semantic Segmentation)模型，並試圖讓AI自動分出癌細胞的區域。最後的結果為Public data資料DICE分數有0.918679，Private資料DICE分數有0.916327，並且獲得Public第4、Private第7的結果
+- 簡介 : 這個比賽主要目標是找出肺腺癌的癌細胞，透過官方提供的醫生標記遮罩(MASK)，架設語意切割(Semantic Segmentation)模型，並試圖讓AI自動分出癌細胞的區域。最後的結果為Public data資料DICE分數為0.918679，Private資料DICE分數為0.916327，並且獲得Public第四、Private第七的結果
 - 更多詳情請見[連結](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation/tree/main)。
 
 <div align="center">
