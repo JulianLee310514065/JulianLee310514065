@@ -141,7 +141,8 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 Manual連結: [https://www.overleaf.com/read/vypqyjjxdnbh](https://www.overleaf.com/read/vypqyjjxdnbh)
 
 Example: 
-  * 清彥結果: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)
+  * 清彥結果: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Hsieh)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Hsieh))
+  * 宇翰結果: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng))
 
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Goal}}$</h1>
 
