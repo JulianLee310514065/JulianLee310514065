@@ -87,21 +87,21 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)
 ![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)
 
-- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/Web_Scrapy/Readme.md)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
+- **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
 - **目標、計畫:** Scrapy、、實戰中
 
 ### 4. SQL
 ![mysql](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mysql.png)
 
-- **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Uncomplete_Project/blob/main/MySQL/Readme.md)
+- **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Akasha_Project)
 
 - **目標、計畫:** 更深入的課程
 
 ### 5. GUI
 ![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)
 
-- **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)
+- **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)
 
 - **目標、計畫:** 暫無
 
