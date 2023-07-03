@@ -64,8 +64,8 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
 ### 1. 深度學習
-![pytorch](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png)
-![tensorflow](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png)
+[![pytorch](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png)](https://pytorch.org/)
+[![tensorflow](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png)](https://pytorch.org/)
 <!--- ![smp](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/smp.png) --->
 <!--- ![mmseg](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mmseg.png) --->
 
@@ -74,41 +74,41 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
 
 ### 2. 機器學習(含各式前處理)
-![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)
-![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)
-![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mat.png)
-![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn_.png)
-![sklearn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png)
+[![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)](https://numpy.org/doc/stable/index.html)
+[![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)](https://pandas.pydata.org/docs/)
+[![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mat.png)](https://matplotlib.org/stable/index.html)
+[![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn_.png)](https://matplotlib.org/stable/index.html)
+[![sklearn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png)](https://scikit-learn.org/stable/)
 
 - **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
 - **目標、計畫:** 實戰中
 
 ### 3. 網路爬蟲
-![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)
-![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)
+[![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)](https://requests.readthedocs.io/en/latest/)
+[![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)](https://www.selenium.dev/zh-cn/)
 
 - **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
 - **目標、計畫:** Scrapy、、實戰中
 
 ### 4. SQL
-![mysql](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mysql.png)
+[![mysql](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mysql.png)](https://www.mysql.com/)
 
 - **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Akasha_Project)
 
 - **目標、計畫:** 更深入的課程
 
 ### 5. GUI
-![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)
+[![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)](https://doc.qt.io/qtforpython-6/)
 
 - **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)
 
 - **目標、計畫:** 實戰中
 
 ### 6. Cloud Platfrom
-![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)
-![GCP](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/gcp.png)
+[![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)](https://www.twcc.ai/)
+[![GCP](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/gcp.png)](https://cloud.google.com/?hl=zh-tw)
 
 - **經歷、獎項:**  [**TWCC (運端運算)**](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[**Google Cloud 翻譯API**](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
 
@@ -116,8 +116,8 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 
 ### 7. NLP
-![transformer](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/transforemer.png)
-![sentence](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sentence.png)
+[![transformer](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/transforemer.png)](https://huggingface.co/)
+[![sentence](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sentence.png)](https://www.sbert.net/)
 
 - **經歷、獎項:** [**Udemy-NLP證書**](https://www.udemy.com/certificate/UC-312ad481-b310-498c-96dd-aced5ecf250f/)
 
@@ -125,8 +125,8 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 
 ### 8. 文書技能
-![latex](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/latex.png)
-![markdown](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/markdown.png)
+[![latex](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/latex.png)](https://www.overleaf.com/)
+[![markdown](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/markdown.png)](https://markdown.tw/)
 
 - **經歷、獎項:** markdown、[**Udemy-overleaf證書**](https://www.udemy.com/certificate/UC-ca1a1f97-3b48-4f21-9553-30fdc13bfc2c/)
 
