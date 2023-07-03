@@ -138,9 +138,9 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 以下為本人自製Manuel，裡面記載了於[交大光電BOIL實驗室](https://boil.lab.nycu.edu.tw/)期間NIRS組所學與所需的程式，包含資料處理；畫圖、機器學習建模分析等等，算是一個對實驗室NIRS組的一個整合。
 
-Manual連結: [https://www.overleaf.com/read/vypqyjjxdnbh](https://www.overleaf.com/read/vypqyjjxdnbh)
+**Manual:** [https://www.overleaf.com/read/vypqyjjxdnbh](https://www.overleaf.com/read/vypqyjjxdnbh)
 
-Example: 
+**Example:** 
   * 清彥結果: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Hsieh)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Hsieh))
   * 宇翰結果: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng))
 
