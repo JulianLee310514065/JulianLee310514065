@@ -76,7 +76,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 ### 2. 機器學習(含各式前處理)
 [![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)](https://numpy.org/doc/stable/index.html)
 [![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)](https://pandas.pydata.org/docs/)
-[![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mat.png)](https://matplotlib.org/stable/index.html)
+[![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/matplotlib_.png)](https://matplotlib.org/stable/index.html)
 [![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn.png)](https://seaborn.pydata.org/)
 [![sklearn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png)](https://scikit-learn.org/stable/)
 
