@@ -67,8 +67,6 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 ![pytorch](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png)
 ![tensorflow](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png)
 
-
-
 - **經歷、獎項:**  [**AICUP(segmentation)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
@@ -103,7 +101,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，他們具
 
 - **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)
 
-- **目標、計畫:** 暫無
+- **目標、計畫:** 實戰中
 
 ### 6. Cloud Platfrom
 ![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)
