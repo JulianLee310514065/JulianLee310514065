@@ -81,11 +81,30 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
 
 ### 2. 機器學習(含各式前處理)
+
+<a href="https://numpy.org/doc/stable/index.html">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png" alt="pytorch" width="64" height="64">
+</a>
+<a href="https://pandas.pydata.org/docs/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg" alt="pytorch" width="64" height="64">
+</a>
+<a href="https://matplotlib.org/stable/index.html">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/matplotlib_.png" alt="pytorch" width="64" height="64">
+</a>
+<a href="https://seaborn.pydata.org/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn.svg" alt="pytorch" width="70" height="70">
+</a>
+<a href="https://scikit-learn.org/stable/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png" alt="pytorch" width="77" height="77">
+</a>
+
+<!---
 [![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)](https://numpy.org/doc/stable/index.html)
 [![pandas](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pandas.jpg)](https://pandas.pydata.org/docs/)
 [![mat](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/matplotlib_.png)](https://matplotlib.org/stable/index.html)
-[![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn_.png#w80)](https://seaborn.pydata.org/)
+[![seaborn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/seaborn.svg)](https://seaborn.pydata.org/)
 [![sklearn](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png)](https://scikit-learn.org/stable/)
+--->
 
 - **經歷、獎項:** [**太空中心AI競賽第一名**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)、[**學長結果重現(及改進)**](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis)、[**DataCamp - Professional Data Scientist Certificate**](https://www.datacamp.com/certificate/DS0019537575798)
 
