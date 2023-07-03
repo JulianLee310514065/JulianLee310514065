@@ -69,7 +69,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 <!--- ![smp](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/smp.png) --->
 <!--- ![mmseg](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mmseg.png) --->
 
-- **經歷、獎項:**  [**AICUP(segmentation)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
+- **經歷、獎項:**  [**AICUP(audio)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 - **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
 
