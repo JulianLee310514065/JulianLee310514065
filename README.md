@@ -64,9 +64,16 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
 
 ### 1. 深度學習
-[![pytorch](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png)](https://pytorch.org/)
-[![tensorflow](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png)](https://www.tensorflow.org/?hl=zh-cn)
-<!--- ![smp](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/smp.png) --->
+
+<a href="https://pytorch.org/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pytorch.png" alt="pytorch" width="64" height="64">
+</a>
+<a href="https://www.tensorflow.org/?hl=zh-cn">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/tensorflow.png" alt="pytorch" width="64" height="64">
+</a>
+<a href="https://github.com/qubvel/segmentation_models.pytorch">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/smp.png" alt="pytorch" width="64" height="64">
+</a>
 <!--- ![mmseg](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mmseg.png) --->
 
 - **經歷、獎項:**  [**AICUP(audio)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
