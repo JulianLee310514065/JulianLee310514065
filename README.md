@@ -61,7 +61,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 </div>
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Skill}}$</h1>
+<h1 align= 'center'>$\mathbb{\color{darkgreen}{Skills}}$</h1>
 
 ### 1. 深度學習
 
@@ -178,8 +178,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 ![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)
 
 </div>
-  
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Reposity-dir}}$</h1>
+
 
 ---
 
