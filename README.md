@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 -----
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Honor}}$</h1>
+<h1 align= 'center'>$\mathbb{\color{darkgreen}{Award}}$</h1>
 
 ### 1. Datacamp professional data scientist certification ![python](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/python.png)
 - **介紹:** <center>[DataCamp](https://app.datacamp.com/)是國外有名的線上程式學習網站，課程包括數據科學和程式開發技能，涵蓋了Python、R、SQL、機器學習、統計分析、資料視覺化等領域。
