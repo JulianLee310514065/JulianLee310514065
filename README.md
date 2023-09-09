@@ -171,11 +171,13 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
   * **宇翰結果**: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Zheng))
   * **庭緯結果**: [https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Chiang)](https://github.com/JulianLee310514065/Complete-Project/tree/main/fNIRS%20signal%20analysis%20(Chiang))
 
+
+
 <h1 align= 'center'>$\mathbb{\color{darkgreen}{Goal}}$</h1>
 
 <div align="center">
   
-![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)
+ <!--- ![after](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/%E5%85%AB%E9%82%8A%E5%BD%A2%E7%9B%AE%E6%A8%99.png?raw=true)  --->
 
 </div>
 
