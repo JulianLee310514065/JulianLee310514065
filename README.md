@@ -1,4 +1,4 @@
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Introduction}}$</h1>
+<h1 align= 'center'>Introduction</h1>
 
 - 👋 Hi, this is @JulianLee310514065. I'm a master student in NYCU, Taiwan. My native language is Mandarin and Taiwanese, please forgive me if I make grammar mistakes in English.
 - 👀 I’m interested in playing soccer, traveling, playing PC games, and also coding
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 -----
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Award}}$</h1>
+<h1 align= 'center'>Award</h1>
 
 ### 1. Datacamp professional data scientist certification ![python](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/python.png)
 - **介紹:** <center>[DataCamp](https://app.datacamp.com/)是國外有名的線上程式學習網站，課程包括數據科學和程式開發技能，涵蓋了Python、R、SQL、機器學習、統計分析、資料視覺化等領域。
@@ -61,7 +61,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 </div>
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Skills}}$</h1>
+<h1 align= 'center'>Skills</h1>
 
 ### 1. 深度學習
 
@@ -160,7 +160,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
   
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Manuel}}$</h1>
+<h1 align= 'center'>Manuel</h1>
 
 以下為本人自製Manuel，裡面記載了於[交大光電BOIL實驗室](https://boil.lab.nycu.edu.tw/)期間NIRS組所學與所需的程式，包含資料處理；畫圖、機器學習建模分析等等，算是一個對實驗室NIRS組的一個整合。
 
@@ -173,7 +173,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 
 
-<h1 align= 'center'>$\mathbb{\color{darkgreen}{Goal}}$</h1>
+<h1 align= 'center'>Goal</h1>
 
 <div align="center">
   
