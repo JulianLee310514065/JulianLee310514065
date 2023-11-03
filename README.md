@@ -76,9 +76,9 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 </a>
 <!--- ![mmseg](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mmseg.png) --->
 
-- **經歷、獎項:**  [**AICUP(audio)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
+- **經歷、獎項:**  [**AICUP(audio)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)、[**52_Channel_NIRS_Data**](https://github.com/JulianLee310514065/Master_thesis_LSTM_Explanibale-AI)
 
-- **目標、計畫:** 52_Channel_NIRS_Data(論文預計)
+- **目標、計畫:**  NLP新聞分類
 
 ### 2. 機器學習(含各式前處理)
 
@@ -116,7 +116,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 - **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
-- **目標、計畫:** Scrapy、、實戰中
+- **目標、計畫:** Scrapy、實戰中
 
 ### 4. SQL
 [![mysql](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mysql.png)](https://www.mysql.com/)
