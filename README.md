@@ -165,7 +165,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 - **目標、計畫:** (希望有)比賽、實戰真實資料
 
 
-### 8. 文書技能
+### 8. 文書技能、特類語言
 [![latex](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/latex.png)](https://www.overleaf.com/)
 [![markdown](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/markdown.png)](https://markdown.tw/)
 
