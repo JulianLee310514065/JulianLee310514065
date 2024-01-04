@@ -89,6 +89,9 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 <a href="https://github.com/qubvel/segmentation_models.pytorch">
   <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/smp.png" alt="pytorch" width="64" height="64">
 </a>
+<a href="https://monai.io/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/monai.png" alt="monai" width="64" height="64">
+</a>
 <!--- ![mmseg](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/mmseg.png) --->
 
 - **經歷、獎項:**  [**AICUP(audio)優等**](https://github.com/JulianLee310514065/AICUP_audio_2023)、[**AICUP(segmentation)佳作**](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)、[**52_Channel_NIRS_Data**](https://github.com/JulianLee310514065/Master_thesis_LSTM_Explanibale-AI)
@@ -112,6 +115,9 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 <a href="https://scikit-learn.org/stable/">
   <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/sklearn.png" alt="pytorch" width="77" height="77">
 </a>
+<a href="https://plotly.com/python/">
+  <img src="https://github.com/JulianLee310514065/JulianLee310514065/blob/main/plotly.png" alt="pytorch" width="77" height="77">
+</a>
 
 <!---
 [![numpy](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/numpy.png)](https://numpy.org/doc/stable/index.html)
@@ -128,6 +134,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 ### 3. 網路爬蟲
 [![requests](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/requests.png)](https://requests.readthedocs.io/en/latest/)
 [![selenium](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/selenium.png)](https://www.selenium.dev/zh-cn/)
+[![DirrsionPage](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/dirrsion.png)](https://g1879.gitee.io/drissionpagedocs/)
 
 - **經歷、獎項:** [**大新聞計畫-爬蟲**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-selenium證書**](https://www.udemy.com/certificate/UC-f582f599-ada1-474b-b3df-5bbb73f50068/)
 
@@ -142,6 +149,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 ### 5. GUI
 [![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)](https://doc.qt.io/qtforpython-6/)
+[![Dash](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/dash.png)](https://dash.plotly.com/)
 
 - **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-Dashboards with Plotly & Dash證書**](https://www.udemy.com/certificate/UC-2d1693da-5613-4427-8d65-cd53f679658f/)
 
