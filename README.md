@@ -143,7 +143,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 ### 5. GUI
 [![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)](https://doc.qt.io/qtforpython-6/)
 
-- **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)
+- **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-Dashboards with Plotly & Dash證書**](https://www.udemy.com/certificate/UC-2d1693da-5613-4427-8d65-cd53f679658f/)
 
 - **目標、計畫:** 實戰中
 
