@@ -145,7 +145,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 - **經歷、獎項:** [**大新聞計畫-SQL**](https://github.com/JulianLee310514065/Akasha_Project)
 
-- **目標、計畫:** 更深入的課程
+- **目標、計畫:** 更多SQL的應用、雲端SQL系統、NoSQL
 
 ### 5. GUI
 [![pyqt5](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/pyqt.png)](https://doc.qt.io/qtforpython-6/)
@@ -153,7 +153,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 - **經歷、獎項:** [**Udemy-Pyqt5證書一**](https://www.udemy.com/certificate/UC-64c9e350-d409-4b9b-ba89-8789d4f2f5aa/)、[**Udemy-Pyqt5證書二**](https://www.udemy.com/certificate/UC-52472554-7753-4cdb-bf0e-e333ce66d77a/)、[**大新聞計畫-GUI**](https://github.com/JulianLee310514065/Akasha_Project)、[**Udemy-Dashboards with Plotly & Dash證書**](https://www.udemy.com/certificate/UC-2d1693da-5613-4427-8d65-cd53f679658f/)
 
-- **目標、計畫:** 實戰中
+- **目標、計畫:** 實際任務開發
 
 ### 6. Cloud Platfrom
 [![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)](https://www.twcc.ai/)
@@ -161,7 +161,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 - **經歷、獎項:**  [**TWCC (運端運算)**](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[**Google Cloud 翻譯API**](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
 
-- **目標、計畫:** VM、Cloud SQL、AWS
+- **目標、計畫:** GCP、AWS、雲端部屬
 
 
 ### 7. NLP
@@ -170,7 +170,7 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 - **經歷、獎項:** [**Udemy-NLP證書**](https://www.udemy.com/certificate/UC-312ad481-b310-498c-96dd-aced5ecf250f/)
 
-- **目標、計畫:** (希望有)比賽、實戰真實資料
+- **目標、計畫:** 打比賽、實戰真實資料
 
 
 ### 8. 文書技能、特類語言
