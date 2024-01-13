@@ -27,6 +27,15 @@ Intelligent functional near-infrared spectroscopy for schizophrenia and bipolar 
 ### Repository
 [**Repository URL**](https://github.com/JulianLee310514065/Master_thesis_LSTM_Explanibale-AI#intelligent-functional-near-infrared-spectroscopy-for-schizophrenia-and-bipolar-disorder-feasibility-assessment-of-an-explainable-artificial-intelligence-algorithm)
 
+<h1 align= 'center'>SideProject - Akasha</h1>
+
+### 介紹
+姻緣際會下遇到了志同道合的朋友，偶然踏上了數位金融的道路，計畫原名為大新聞計畫，在尋思之後引用梵語Akasha作為名稱，其意思為宇宙本源這個字詞，代表著知曉所有情報的聚合體。此專案以時事新聞、資金流向與市場連動趨勢為主軸，下圖為專案藍圖，分成兩個部分，爬蟲系統及資金流與市場動向，爬蟲系統包含爬取新聞、存取新聞、分析新聞與即時推送新聞，資金流與市場動向為市場資金流動之分析，分析大額資金的進出與不同市場間連動關係，才有機會早一步做出應對。
+![image](https://github.com/JulianLee310514065/SideProject--Akasha/assets/101493861/f071ae08-7367-4bc3-a0df-df953b1807e3)
+
+### Repository
+[**Repository URL**](https://github.com/JulianLee310514065/SideProject--Akasha)
+
 <h1 align= 'center'>Award</h1>
 
 ### 1. Datacamp professional data scientist certification ![python](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/python.png)
