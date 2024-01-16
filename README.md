@@ -168,9 +168,9 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 [![TWCC](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/twcc.png)](https://www.twcc.ai/)
 [![GCP](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/gcp.png)](https://cloud.google.com/?hl=zh-tw)
 
-- **經歷、獎項:**  [**TWCC (運端運算)**](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[**Google Cloud 翻譯API**](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)
+- **經歷、獎項:**  [**TWCC (運端運算)**](https://github.com/JulianLee310514065/Miscellaneous/tree/main/TWCC)、[**Google Cloud 翻譯API**](https://github.com/JulianLee310514065/Miscellaneous/blob/main/Google_Translate_API/Readme.md)、[**AWS**](https://github.com/JulianLee310514065/JulianLee310514065/blob/main/aws.png)
 
-- **目標、計畫:** GCP、AWS、雲端部屬
+- **目標、計畫:** GCP、雲端部屬
 
 
 ### 7. NLP
