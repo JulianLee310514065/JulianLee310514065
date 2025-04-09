@@ -224,6 +224,3 @@ Datacamp的課程皆由業界專家和知名教育者設計和教授，每個皆
 
 ---
 
-<h1 align= 'center'>My Favorite Game -- Arknights</h1>
-
-![arknight](https://user-images.githubusercontent.com/101493861/158847462-aac2cdeb-abc3-4bd0-ac30-5c6fae676913.jpg)
